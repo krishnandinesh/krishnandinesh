@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Dinesh
 ==================================
 
-Passionate Front End Developer
+A Passionate Front End Developer
 ------------------------------
 
 CS graduate and adept Front-end Developer aspirant with an ability to collaborate effectively with senior developers and ensure strict compliance with all applicable deadlines. With a passion for both personal growth and software development, I have completed various courses and projects to learn new languages while sharpening existing skills. Ready to work closely with the team to apply my skills and develop a quality solution.
