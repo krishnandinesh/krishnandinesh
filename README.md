@@ -9,7 +9,7 @@ CS graduate and adept Front-end Developer aspirant with an ability to collaborat
 - 🌍  I'm based in Chennai
 - 🔭 I’m currently working on my Portfolio
 - 🌱 I’m currently learning React JS
-- 👯 I’m looking to collaborate on <a onclick="handleClick()" target="_blank" href="https://www.linkedin.com/in/krishnandinesh/">Linkedin</a> <a onclick="handleClick()" target="_blank" href="https://www.instagram.com/krishnan_dinesh/">Instagram</a>
+- 👯 I’m looking to collaborate on <a onclick="handleClick()" target="_blank" href="https://www.linkedin.com/in/krishnandinesh/">Linkedin, </a><a onclick="handleClick()" target="_blank" href="https://www.instagram.com/krishnan_dinesh/">Instagram</a>
 - 📫 How to reach me: [Gmail](mailto:krishnandinesh5798@gmail.com)
 - 😄 Pronouns: he/him
 
