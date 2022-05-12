@@ -4,7 +4,8 @@
 A Front End Developer Aspirant
 ----------------------
 
-CS graduate and adept Front-end Developer aspirant with an ability to collaborate effectively with senior developers and ensure strict compliance with all applicable deadlines. With a passion for both personal growth and software development, I have completed various courses and projects to learn new languages while sharpening existing skills. Ready to work closely with the team to apply my skills and develop a quality solution.
+Aspiring Front-end Developer with a CS degree and the ability to collaborate effectively with senior developers and ensure strict compliance with all applicable deadlines. 
+Looking for an opportunity to exhibit my talents as a Front End developer, get introduced to new technologies, and broaden my knowledge in that domain.
 
 - 🌍  I'm based in Chennai
 - 🔭 I’m currently working on my Portfolio
