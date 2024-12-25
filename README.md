@@ -10,7 +10,7 @@ Looking for an opportunity to exhibit my talents as a Front End developer, get i
 - 🌍  I'm based in Chennai
 - 🔭 I’m currently working on my Portfolio
 - 🌱 I’m currently learning SASS and React JS
-- 👯 I’m looking to collaborate on <a onclick="handleClick()" target="_blank" href="https://www.linkedin.com/in/krishnandinesh/">Linkedin, </a><a onclick="handleClick()" target="_blank" href="https://www.instagram.com/krishnan_dinesh/">Instagram</a>
+- 👯 I’m looking to collaborate on <a onclick="handleClick()" target="_blank" href="https://www.linkedin.com/in/krishnandinesh/">Linkedin
 - 📫 How to reach me: [Gmail](mailto:krishnandinesh5798@gmail.com)
 - 😄 Pronouns: he/him
 
