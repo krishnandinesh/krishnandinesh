@@ -1,14 +1,14 @@
 ### Hi there 👋 My name is Dinesh
 ===========================
 
-A Front End Developer Aspirant
+A Front-End Developer
 ----------------------
 
-Front-end Developer with a CS degree and the ability to collaborate effectively with senior developers and ensure strict compliance with all applicable deadlines. 
+Front-End Developer with a CS degree and the ability to collaborate effectively with senior developers and ensure strict compliance with all applicable deadlines. 
 Looking for an opportunity to exhibit my talents as a Front End developer, get introduced to new technologies, and broaden my knowledge in that domain.
 
-- 🌍  I'm based in Chennai
-- 🔭 I’m currently working in a startup as a Frontend Developer
+- 🌍 I'm based in Chennai
+- 🔭 I’m currently working in a startup as a Frontend Developer Intern
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on <a onclick="handleClick()" target="_blank" href="https://www.linkedin.com/in/krishnandinesh/">Linkedin
 - 📫 How to reach me: [Gmail](mailto:krishnandinesh5798@gmail.com)
